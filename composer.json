@@ -70,6 +70,7 @@
   },
   "extra": {
     "installer-paths": {
+      "web/private/scripts/quicksilver": ["type:quicksilver-script"],
       "web/core": ["type:drupal-core"],
       "web/modules/contrib/{$name}": ["type:drupal-module"],
       "web/profiles/contrib/{$name}": ["type:drupal-profile"],
